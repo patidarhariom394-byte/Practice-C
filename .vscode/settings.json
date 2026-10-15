@@ -1,0 +1,11 @@
+{
+  "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
+  "python-envs.pythonProjects": [
+    {
+      "path": "python_project",
+      "envManager": "ms-python.python:venv",
+      "packageManager": "ms-python.python:pip",
+      "workspace": "Learning CL"
+    }
+  ]
+}
